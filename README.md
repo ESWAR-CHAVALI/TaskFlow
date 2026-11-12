@@ -12,6 +12,6 @@ A full-stack collaborative Team Task \& Issue Tracker inspired by Jira and Linea
 ## 📌 Daily Progress & Commit Roadmap
 
 * ✅ **Day 0:(11/11/2026)** Git \& GitHub Setup, Repository Initialization
-
+* ✅ **Day 1: (12/11/2026)** Spring Boot Initializr, Maven dependencies & MySQL connection  
 
 **Author:** ESWAR CHAVALI
